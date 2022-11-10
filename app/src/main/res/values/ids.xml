@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="total_quantity" type="id" />
+    <item name="total_price" type="id" />
+    <item name="product_price" type="id" />
+    <item name="product_name" type="id" />
+    <item name="current_time" type="id" />
+    <item name="current_date" type="id" />
+</resources>
